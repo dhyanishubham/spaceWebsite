@@ -12,13 +12,13 @@ const ServiceData=[
         aosDelay:"300",
     },
     {
-        title:"HST",
-        content:"300-500km",
+        title: "ISS",
+        content: "500-1500km",
         description:
-        "Used for astronomical observation, capturing stunning images of the universe.",
-        icon:<FaReact className="text-7xl"/>,
-        aosDelay:"500",
-    },
+          ", it's a habitable artificial satellite orbiting Earth and serves as a space environment research laboratory",
+        icon: <FaShuttleSpace className="text-7xl" />,
+        aosDelay: "500",
+     },
     {
         title:"HST",
         content:"300-500km",
